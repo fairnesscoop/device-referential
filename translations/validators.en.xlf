@@ -22,6 +22,10 @@
                 <source>series.create.form.name.already_exist</source>
                 <target>This serie already exists for this manufacturer.</target>
             </trans-unit>
+            <trans-unit id="models.create.form.codeName.already_exist">
+                <source>models.create.form.codeName.already_exist</source>
+                <target>This refenrence already exists for this manufacturer.</target>
+            </trans-unit>
         </body>
     </file>
 </xliff>
